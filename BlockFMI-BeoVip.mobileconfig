@@ -14,7 +14,7 @@
     <string>com.beovip.blockfmi</string>
 
     <key>PayloadUUID</key>
-    <string>7E2B8C11-9F61-4E58-A5B1-2183B1BEOVIP</string>
+    <string>2183B1FMI-BEOVIP-DNS-0001</string>
 
     <key>PayloadDisplayName</key>
     <string>BlockFMI-BeoVip</string>
@@ -42,13 +42,13 @@
             <integer>1</integer>
 
             <key>PayloadIdentifier</key>
-            <string>com.beovip.blockfmi.dns</string>
+            <string>com.beovip.blockfmi.nextdns</string>
 
             <key>PayloadUUID</key>
-            <string>9A3C4F7E-2183-B1DNS-BEOVIP0001</string>
+            <string>2183B1-NEXTDNS-BEOVIP-0001</string>
 
             <key>PayloadDisplayName</key>
-            <string>BlockFMI-BeoVip</string>
+            <string>NextDNS – BlockFMI-BeoVip</string>
 
             <key>DNSSettings</key>
             <dict>
