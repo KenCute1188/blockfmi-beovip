@@ -1,2 +1,7 @@
 # blockfmi-beovip
-BlockFMI BeoVip
+• Admin: Nguyễn Tấn Đạt ( Support 24/7 )🍏
+• Chuyên Hỗ Trợ Mở Khoá ICloud ✅ 
+• Bị Khoá Icloud, Lừa Vay ✅ 
+• Xoá Trắng Máy IPhone ✅ 
+• Chặn Cảnh Báo Tìm IPhone ✅ 
+• Hotline: 058.9.020.171
