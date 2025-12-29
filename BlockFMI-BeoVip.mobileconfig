@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN"
+ "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+
+    <key>PayloadType</key>
+    <string>Configuration</string>
+
+    <key>PayloadVersion</key>
+    <integer>1</integer>
+
+    <key>PayloadIdentifier</key>
+    <string>com.beovip.blockfmi</string>
+
+    <key>PayloadUUID</key>
+    <string>7E2B8C11-9F61-4E58-A5B1-2183B1BEOVIP</string>
+
+    <key>PayloadDisplayName</key>
+    <string>BlockFMI-BeoVip</string>
+
+    <key>PayloadOrganization</key>
+    <string>BeoVip</string>
+
+    <key>PayloadDescription</key>
+    <string>
+• Admin: Nguyễn Tấn Đạt ( Support 24/7 ) 🍏
+• Chuyên Hỗ Trợ Mở Khoá iCloud ✅
+• Bị Khoá iCloud, Lừa Vay ✅
+• Xoá Trắng Máy iPhone ✅
+• Chặn Cảnh Báo Tìm iPhone ✅
+• Hotline: 058.9.020.171
+    </string>
+
+    <key>PayloadContent</key>
+    <array>
+        <dict>
+            <key>PayloadType</key>
+            <string>com.apple.dnsSettings.managed</string>
+
+            <key>PayloadVersion</key>
+            <integer>1</integer>
+
+            <key>PayloadIdentifier</key>
+            <string>com.beovip.blockfmi.dns</string>
+
+            <key>PayloadUUID</key>
+            <string>9A3C4F7E-2183-B1DNS-BEOVIP0001</string>
+
+            <key>PayloadDisplayName</key>
+            <string>BlockFMI-BeoVip</string>
+
+            <key>DNSSettings</key>
+            <dict>
+                <key>DNSProtocol</key>
+                <string>HTTPS</string>
+
+                <key>ServerURL</key>
+                <string>https://2183b1.dns.nextdns.io</string>
+            </dict>
+        </dict>
+    </array>
+
+</dict>
+</plist>
